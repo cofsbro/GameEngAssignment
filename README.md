@@ -20,6 +20,9 @@ The aim of my project was to create a dungeon crawler like the binding of isacc 
 
 - The labs tank [Github Labs] (https://github.com/skooter500/GE1-2019-2020)
 - Stardew valley minigame- journey of the prairie king [Youtube video] (https://www.youtube.com/watch?v=0AjchLheDxw)
-- Unity random map generator tutorial[Youtube Video] - (https://www.youtube.com/watch?v=qAf9axsyijY) - (https://www.youtube.com/watch?v=eR74EjkA_4s) - (https://www.youtube.com/watch?v=CUdKdHmT8xA)
+- Unity random map generator tutorial[Youtube Video] 
+  - (https://www.youtube.com/watch?v=qAf9axsyijY) 
+  - (https://www.youtube.com/watch?v=eR74EjkA_4s) 
+  - (https://www.youtube.com/watch?v=CUdKdHmT8xA)
                            
                            
