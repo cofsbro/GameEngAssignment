@@ -16,8 +16,6 @@ The aim of my project was to create a dungeon crawller like the binding of isacc
 - [ ] If not allow you to choose 2D or 3D versions
 
 
-                      -
-
 *Resorces:*
 
 - The labs tank [Github Labs] (https://github.com/skooter500/GE1-2019-2020)
