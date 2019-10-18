@@ -9,9 +9,10 @@ The aim of my project was to create a dungeon crawler like the binding of isacc 
 
 - [ ] 3 Lives system
 - [ ] Points/score system
-- [ ] Random map layout and/or dunegon layout
-- [ ] Randomly generated terrain/walls to obsucre the enemy swarm and  your shooting
+- [ ] Random map/room/dungeon layout
+- [ ] Randomly generated terrain/walls to obsucre the enemy swarm and your shooting in each room
 - [ ] Enemies drop random power ups to change  your shooting mechanics or other mechanics
+- [ ] A possible grid layout use to spawn an item or barrier in each square.
 - [ ] Diffrent enemy types I.e stronger armour needing more shoots to kill, faster or more
 - [ ] Top down camera view to emulate a 2D feel
 - [ ] Hopefully see if can change the camera posisition and movement speed to make it look more 3D versions
