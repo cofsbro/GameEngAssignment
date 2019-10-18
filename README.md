@@ -3,7 +3,7 @@
 
 *My project:*
 
-The aim of my project was to create a dungeon crawler like the binding of isacc or the more simularly like the Stardew valley minigame journey of the prairie king ref1 (https://bit.ly/2pwZEaz) where you face a wave of enemies coming at you to kill you in each room, until you get a certain ammount of points from shooting/surviving them to move on to the next room. If the enemy touches you, you will die instantly, therefore will try and implement a 3 lives system, including diffrent enemy types. If keep winning and move room from room will eventually hopefully lead you to the boss room and fight it. Using a top down camera view to emulate a 2D system like in the game (or in a grid format), while using what we have learned in the labs and in the unity tutorials.
+The aim of my project was to create a dungeon crawler like the binding of isacc or the more simularly like the Stardew valley minigame journey of the prairie king(https://bit.ly/2pwZEaz) Where you face a wave of enemies coming at you to kill you in each room, until you get a certain ammount of points from shooting/surviving them to move on to the next room. If the enemy touches you, you will die instantly, therefore will try and implement a 3 lives system, including diffrent enemy types. If keep winning and move room from room will eventually hopefully lead you to the boss room and fight it. Using a top down camera view to emulate a 2D system like in the game (or in a grid format), while using what we have learned in the labs and in the unity tutorials.
 
 *What the game will hopefully include:* 
 
