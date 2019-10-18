@@ -15,8 +15,8 @@ The aim of my project was to create a dungeon crawler like the binding of isacc 
 - [ ] Enemies drop random power ups to change  your shooting mechanics or other mechanics
 - [ ] A possible grid layout use to spawn an item or barrier in each square.
 - [ ] Diffrent enemy types I.e stronger armour needing more shoots to kill, faster or more
-- [ ] Top down camera view to emulate a 2D feel
-- [ ] Hopefully see if can change the camera posisition and movement speed to make it look more 3D versions
+- [ ] Top down camera view to emulate a 2D feel (2.5D)
+- [ ] Possible pure 2D or 3D  styles
 - [ ] Boss battle at the end
 - [ ] Possible other features
 
