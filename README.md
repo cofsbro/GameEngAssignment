@@ -8,14 +8,14 @@ The aim of my project was to create a dungeon crawler like the binding of isacc 
 *What the game will hopefully include:* 
 
 - [ ] 3 Lives system
-- [ ] Points/score system
+- [x] Points/score system
 - [ ] Random map/room/dungeon layout
-- [ ] Using the lab tutorials a
+- [x] Using the lab tutorials as a base example
 - [ ] Randomly generated terrain/walls to obsucre the enemy swarm and your shooting in each room
 - [ ] Enemies drop random power ups to change  your shooting mechanics or other mechanics
 - [ ] A possible grid layout use to spawn an item or barrier in each square.
 - [ ] Diffrent enemy types I.e stronger armour needing more shoots to kill, faster or more
-- [ ] Top down camera view to emulate a 2D feel (2.5D)
+- [x] Top down camera view to emulate a 2D feel (2.5D)
 - [ ] Possible pure 2D or 3D  styles
 - [ ] Boss battle at the end
 - [ ] Possible other features
@@ -30,5 +30,9 @@ The aim of my project was to create a dungeon crawler like the binding of isacc 
   - (https://www.youtube.com/watch?v=eR74EjkA_4s) 
   - (https://www.youtube.com/watch?v=CUdKdHmT8xA)
   - (https://www.youtube.com/watch?v=hk6cUanSfXQ)
+- Unity tutorial of simular style game[Youtube Video] 
+  (https://www.youtube.com/watch?v=SviIeTt2_Lc&list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0)
  - Unity tutorials [Unity tutorials] (https://learn.unity.com/tutorial/movement-basics?projectId=5c514956edbc2a002069467c#5c7f8528edbc2a002053b70f)
                            
+**Project Progression**
+As stated from my original proposual this projected was aimed to develop a semi dugeon crawler/bullet hell
