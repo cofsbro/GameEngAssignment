@@ -9,9 +9,9 @@ The aim of my project was to create a dungeon crawler like the binding of isacc 
 
 - [x] Life system
 - [x] Points/score system
-- [ ] Random map/room/dungeon layout
+- [x] Random map/room/dungeon layout (Somewhat)
 - [x] Using the lab tutorials as a base example
-- [ ] Randomly generated terrain/walls to obsucre the enemy swarm and your shooting in each room
+- [x] Randomly generated terrain/walls to obsucre the enemy swarm and your shooting in each room (Somewhat)
 - [ ] Enemies drop random power ups to change  your shooting mechanics or other mechanics
 - [ ] Diffrent enemy types I.e stronger armour needing more shoots to kill, faster or more
 - [x] Top down camera view to emulate a 2D feel (2.5D)
@@ -53,4 +53,3 @@ Other known issues that occur over developing this project:
 - Aligning the score text neatly onto the screen overlay.
 - Ajustment to the top down camera changed various objects positions on the map.
 - Could not pause or end the spawning.
-- 
